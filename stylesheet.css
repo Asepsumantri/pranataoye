@@ -1,7 +1,7 @@
 body {
   font-family: "Avenir Next";
 }
-
+*{box-sizing:border-box;}
 li {
   list-style: none;
 }
